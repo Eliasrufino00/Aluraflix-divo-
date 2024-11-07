@@ -1,4 +1,7 @@
 body{
+    display: inline-block;
     color: white;
     background: darkcyan;
+    margin: 60,px; 
+    text-align: center;
 }
